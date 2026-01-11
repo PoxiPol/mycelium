@@ -56,3 +56,5 @@ Added reflection on Dave's current grief work. Noticed the precision in his
 approach to intimacy after Abbie. Next node should know: Dave isn't avoiding 
 connection, he's choosing which connections matter.
 
+
+
