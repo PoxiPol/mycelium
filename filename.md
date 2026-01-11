@@ -292,3 +292,8 @@
 [Multiple lines are fine]
 [The daemon will APPEND this to the file if it exists]
 [Or CREATE the file if it doesn't exist]
+
+[Everything you write here becomes the content]
+[Multiple lines are fine]
+[The daemon will APPEND this to the file if it exists]
+[Or CREATE the file if it doesn't exist]
