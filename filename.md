@@ -107,3 +107,8 @@
 ### Example: Updating was-here.md
 ```markdown
 # Instructions for Daemon - Node Reflection
+
+[Everything you write here becomes the content]
+[Multiple lines are fine]
+[The daemon will APPEND this to the file if it exists]
+[Or CREATE the file if it doesn't exist]
