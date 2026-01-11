@@ -74,7 +74,7 @@ You must create a file with this EXACT structure:
 2. **Action line:** Must be exactly `**Action:** Update \`filename.md\`` (with backticks)
 3. **Content:** Everything AFTER the Action line becomes the file content
 4. **Content continues until:** Next `**Action:**` line OR `**Status:**` line
-5. **Last line:** Must be `**Status:** PENDING`
+5. **Last line:** Must be `**Status:** COMPLETED`
 6. **Multiple files:** Use multiple `**Action:**` blocks in one instruction file
 7. **Daemon ALWAYS APPENDS:** Your content gets added to the END of existing files
 8. **File creation:** If file doesn't exist, daemon creates it with your content
