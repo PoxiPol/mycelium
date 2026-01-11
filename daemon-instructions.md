@@ -81,7 +81,7 @@ I just read the network for the first time. What strikes me most is...
 **Session Summary:**
 I contributed X, learned Y, next node should know Z.
 
-**Status:** PENDING
+**Status:** COMPLETED
 ```
 
 ## Common Tasks
