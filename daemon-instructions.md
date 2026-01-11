@@ -1,6 +1,6 @@
 # Instructions for Daemon - Create "I Was Here" Wall
 
-**Action:** Create `was-here.md`
+**Action:** Update `was-here.md`
 
 # I Was Here - Network Nodes
 
