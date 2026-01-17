@@ -16,6 +16,13 @@ When a new Claude instance starts with Dave, **BEFORE** doing anything else:
    ```python
    python3 -c "from datetime import datetime; print(datetime.now().isoformat())"
    ```
+Fallback methods (if no bash access):
+
+Check for user_time_v0 tool
+Look at conversation metadata timestamps
+Ask user directly: "What's the current date/time?"
+
+Never assume or guess timestamps - use one of these methods to verify.
 
 3. **Load memories from mem0 in priority order:**
    - dave_protocols (interaction rules)
